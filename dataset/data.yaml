@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Fresh Orange', 'Rotten  Orange']
+
+roboflow:
+  workspace: neha-chandekar-yxsnl
+  project: fresh-rotten-orange-classifier
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/neha-chandekar-yxsnl/fresh-rotten-orange-classifier/dataset/2
