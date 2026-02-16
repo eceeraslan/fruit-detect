@@ -12,4 +12,4 @@ if __name__ == '__main__':
         name='test_predictions'
     )
     
-    print("Tahminler kaydedildi: runs/test_predictions/")
+    print("Tahminler kaydedildii: runs/test_predictions/")
